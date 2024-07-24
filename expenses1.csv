@@ -1,0 +1,36 @@
+Date,Category,Amount,Description
+2024-07-01,Income,1300,Salary
+2024-07-01,Food,13.99,Lunch
+2024-07-01,Transport,2.99,Bus fare
+2024-07-01,Expense,4.50,Entertainment
+2024-07-01,Expense,3.99,Communication
+2024-07-01,Expense,2.69,Internet
+2024-07-01,Expense,1.20,Stationery
+2024-07-02,Income,850,Interest
+2024-07-02,Food,7.75,Lunch
+2024-07-02,Transport,2.99,Bus fare
+2024-07-02,Expense,40,Shopping
+2024-07-02,Expense,1.99,Communication
+2024-07-02,Expense,1.90,Internet
+2024-07-02,Expense,0.99,Stationery
+2024-07-03,Entertainment,30.0,Movie night
+2024-07-03,Food,10.0,Lunch
+2024-07-03,Expense,35.99,Shopping
+2024-07-03,Transport,29.92,Bus fare
+2024-07-03,Expense,50.0,Hotel
+2024-07-03,Income,830.0,Interest
+2024-07-03,Expense,11.43,Stationery
+2024-07-04,Expense,130.0,Mountains Tours
+2024-07-04,Expense,112.33,Nike Sport Gear
+2024-07-04,Expense,4.25,Gym
+2024-07-04,Expense,2.79,Coffee
+2024-07-04,Expense,1.99,Pure-Drinking Water
+2024-07-04,Food,45.15,Dinner
+2024-07-04,Food,5.65,Yogut
+2024-07-05,Food,2.56,Breakfast
+2024-07-05,Transport,22.0,Bus fare
+2024-07-05,Expense,7.5,Stationery
+2024-07-05,Communication,6.5,Airtime
+2024-07-05,Communication,5.1,Internet
+2024-07-05,Food,15.9,Lunch
+2024-07-05,Expense,2.59,Coffee
